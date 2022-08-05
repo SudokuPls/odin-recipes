@@ -1,0 +1,26 @@
+#header {
+    background-color: darkolivegreen;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 55px;
+}
+
+img {
+   border-radius: 15px;
+   display:block;
+   margin-left:auto;
+   margin-right: auto;
+   width: 20%;
+   height: auto;
+}
+
+div {background-color: bisque;
+}
+
+ul, ol, p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
